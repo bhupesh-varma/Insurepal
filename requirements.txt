@@ -1,0 +1,21 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+
+#API and web services
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+
+#vector databases
+pinecone 
+
+#database drivers
+psycopg2-binary
+sqlalchemy
+
+#Extra utilities
+python-dotenv
+tqdm
